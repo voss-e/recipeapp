@@ -1,10 +1,10 @@
 {
   "name": "recipe",
+      "homepage": "https://vosse.github.io/recipeapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "homepage": "https://voss-e.github.io/recipeapp",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
@@ -18,7 +18,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
