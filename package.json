@@ -1,6 +1,5 @@
 {
   "name": "recipe",
-      "homepage": "https://vosse.github.io/recipeapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
