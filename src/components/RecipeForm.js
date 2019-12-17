@@ -40,7 +40,6 @@ const RecipeForm = () => {
         <div className="form-group">
           <label >Photo URL</label>
           <input type="text" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="https://www.imgur.com/example" value={photoURL} onChange={(e) => setPhotoURL(e.target.value)} required/>
-          <small id="emailHelp" className="form-text text-muted">Sorry I am too lazy to host photos.</small>
         </div>
 
         <div className="form-group">
